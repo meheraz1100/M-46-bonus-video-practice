@@ -1,0 +1,20 @@
+[
+    {
+        "catagory" : "course_l1",
+        "title" : "Complete Web Development Course With Jhankar Mahbub",
+        "owner" : "ঝংকার মাহবুব",
+        "thumbnail" : "https://i.ibb.co/RvMTH8r/1701886183326.jpg"
+    },
+    {
+        "catagory" : "course_l2",
+        "title" : "Level 2 course",
+        "owner" : "ঝংকার মাহবুব",
+        "thumbnail" : "https://i.ibb.co/RvMTH8r/1701886183326.jpg"
+    },
+    {
+        "catagory" : "conceptual",
+        "title" : "Conceptual Sessions",
+        "owner" : "ঝংকার মাহবুব",
+        "thumbnail" : "https://i.ibb.co/RvMTH8r/1701886183326.jpg"
+    }
+]
